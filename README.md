@@ -2,10 +2,10 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Portfolio snippet** made with Bootstrap 4. It is beautiful, fully responsive, and can be used as a printed CV or online portfolio. The snippet has sections for your job and education history, work skills, contacts, social media links, and personal information or hobbies. There is also a helpful navigation menu for scrolling to each section. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/portfolio)
+**Portfolio snippet** made with Bootstrap 4. It is beautiful, fully responsive, and can be used as a printed CV or online portfolio. The snippet has sections for your job and education history, work skills, contacts, social media links, and personal information or hobbies. There is also a helpful navigation menu for scrolling to each section. [See a live demo here &raquo;](https://epicbootstrap.com)
 
-[![Portfolio](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/portfolio) 
-[![Portfolio](/readme-images/screenshot-2.png)](https://epicbootstrap.com/snippets/portfolio) 
+[![Portfolio](/readme-images/screenshot.png)](https://epicbootstrap.com) 
+[![Portfolio](/readme-images/screenshot-2.png)](https://epicbootstrap.com) 
 
 ## Features
 
